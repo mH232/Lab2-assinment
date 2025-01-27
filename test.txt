@@ -1,1 +1,2 @@
 First line in test file
+Second line in test file
